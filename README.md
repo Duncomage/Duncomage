@@ -2,7 +2,7 @@
 - 👀 I’m interested in android development 
 - 🌱 I’m currently learning Java and web development 
 - 💞️ I’m looking to collaborate on java projects
-- 📫 How to reach me ...
+- 📫 How to reach me dncomgt@gmail.com
 
 <!---
 Duncomage/Duncomage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
